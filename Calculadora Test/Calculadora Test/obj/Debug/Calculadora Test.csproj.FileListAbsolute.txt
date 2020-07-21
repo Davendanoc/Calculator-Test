@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\Calculadora Test\Calculadora Test\obj\Debug\Calculadora Test.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Calculadora Test\Calculadora Test\obj\Debug\Calculadora_Test.Form1.resources
+C:\Users\David\source\repos\Calculadora Test\Calculadora Test\obj\Debug\Calculadora_Test.Properties.Resources.resources
+C:\Users\David\source\repos\Calculadora Test\Calculadora Test\obj\Debug\Calculadora Test.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Calculadora Test\Calculadora Test\obj\Debug\Calculadora Test.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Calculadora Test\Calculadora Test\bin\Debug\Calculadora Test.exe.config
+C:\Users\David\source\repos\Calculadora Test\Calculadora Test\bin\Debug\Calculadora Test.exe
+C:\Users\David\source\repos\Calculadora Test\Calculadora Test\bin\Debug\Calculadora Test.pdb
+C:\Users\David\source\repos\Calculadora Test\Calculadora Test\obj\Debug\Calculadora Test.exe
+C:\Users\David\source\repos\Calculadora Test\Calculadora Test\obj\Debug\Calculadora Test.pdb
